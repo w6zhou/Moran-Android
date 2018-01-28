@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <string-array name="dialog_settings_encoding_format_array">    
+        <item>H263</item>
+        <item>MP4-SP</item>
+        <item>H264</item>
+    </string-array> 
+    <string-array name="dialog_settings_container_format_array">
+        <item>3gp</item>
+        <item>mp4</item>
+    </string-array>  -->
+    <string-array name="dialog_settings_resolution_array">
+        <item>176x144</item>
+        <item>320x240</item>
+        <item>480x320</item>
+        <item>640x480</item>
+        <item>720x480</item>
+        <item>720x640</item>
+        <item>1024x720</item>
+        <item>1280x1080</item>
+    </string-array>
+
+
+    <!--进入聊天室-->
+    <string-array name="danmu_entrance">
+        <item>老师傅们，慢点开，我要吐</item>
+        <item>刷出了F、C、K，来找个U</item>
+        <item>成功撩妹，走心未遂</item>
+        <item>亚洲正经下面公司，下面给你们吃</item>
+        <item>酷爱街头文化，所以我在街头要饭</item>
+        <item>菊花护身符，护体进群</item>
+        <item>请大家稍微肤浅一点</item>
+        <item>惩恶扬善，不要大蒜</item>
+        <item>有人要盘吗？</item>
+        <item>一起来马桶社交</item>
+        <item>琅琊路小学第一麦克雷</item>
+        <item>诚心寻道友</item>
+        <item>打麻将总是点炮</item>
+        <item>玩滑板轴承老爆</item>
+        <item>我下凡有正事</item>
+        <item>十四流酒精侠进入群聊</item>
+        <item>十三流贝斯手进入群聊</item>
+        <item>十八流民谣难民进入群聊</item>
+        <item>二十三流纹身师进入群聊</item>
+        <item>十七流大板混进入群聊</item>
+        <item>Yo bro!waz up?</item>
+        <item>五十四流MC进入群聊</item>
+        <item>AKA叫什么我都行</item>
+        <item>有搞对象的吗？</item>
+        <item>我时刻准备着与您谈心</item>
+        <item>五道营扫街大爷来了</item>
+        <item>二十八流潮牌主理人进入群聊</item>
+    </string-array>
+
+    <!--开启闪光弹幕-->
+    <string-array name="danmu_coin">
+        <item>为闪光灯充电+1</item>
+        <item>举起了他的手机+1</item>
+
+    </string-array>
+
+    <!--领燥人-->
+    <string-array name="danmu_sponsor">
+        <item>获得引燥特权</item>
+
+    </string-array>
+
+    <string-array name="say_hi">
+        <item>我看你瞅我半天了，真的有那么好看吗？！</item>
+        <item>要不要一起找个酒吧探讨下人生？</item>
+        <item>我要上天，你要不要一起去？</item>
+        <item>我注意你很久了，你的鞋脏了</item>
+        <item>回复我以后，你即将变得更屌</item>
+        <item>来吧皮卡丘！</item>
+        <item>你主动一点，我们孩子都有了。</item>
+        <item>别说话，含嘴里。</item>
+        <item>要不咱俩亲个嘴缓和一下尴尬的气氛。</item>
+        <item>前方高能预警。</item>
+        <item>电话是个好东西，希望你能给我一个。</item>
+        <item>你过来我给你看个宝贝</item>
+        <item>你吓到我了，赔钱！</item>
+        <item>一起聊会吧？走心还是走肾你说了算！</item>
+        <item>雷吼啊！</item>
+        <item>自古深情留不住，往往套路得人心！</item>
+        <item>快来，我找到新的（撒野）泳池啦</item>
+        <item>让我们一起摇摆！</item>
+        <item>你我本无缘，全靠我花钱。</item>
+        <item>我还是个孩子，请注意你的尺度</item>
+    </string-array>
+
+
+    <string-array name="city_arrays">
+
+        <item>全部城市</item>
+        <item>南京</item>
+
+
+    </string-array>
+
+</resources>
